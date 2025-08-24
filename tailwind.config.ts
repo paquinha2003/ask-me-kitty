@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Custom romantic colors
+				love: {
+					pink: 'hsl(var(--love-pink))',
+					rose: 'hsl(var(--love-rose))',
+					red: 'hsl(var(--love-red))',
+					cream: 'hsl(var(--love-cream))',
+					lavender: 'hsl(var(--love-lavender))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',

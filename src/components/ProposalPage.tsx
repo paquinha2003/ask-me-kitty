@@ -87,7 +87,7 @@ const ProposalPage = () => {
               Eu sabia! ❤️
             </h1>
             <p className="text-xl md:text-2xl text-love-rose font-medium">
-              Vai ser o casal mais fofo do mundo! 🥰
+              
               Vamos ser o casal mais fofo do mundo! <br />
               Te amo! 🥰
             </p>

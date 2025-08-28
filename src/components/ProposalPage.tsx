@@ -111,7 +111,7 @@ const ProposalPage = () => {
         {/* Title */}
         <div className="space-y-4">
           <h1 className="text-3xl md:text-5xl font-bold heart-gradient bg-clip-text text-transparent leading-tight">
-            Quer namorar comigo?
+            Quer namorar comigo, Ana Carolina?
           </h1>
           <div className="text-2xl">💕</div>
         </div>
